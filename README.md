@@ -1,2 +1,2 @@
-# Scripts
-random scripts
+# scripts
+essential shell-scripts
